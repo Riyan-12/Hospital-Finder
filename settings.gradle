@@ -1,0 +1,2 @@
+rootProject.name='WeCare'
+include ':app'
